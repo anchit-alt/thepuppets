@@ -1,0 +1,446 @@
+body {
+  margin-right: 0;
+  background-color: #red;
+
+}
+
+#middlehome{
+  background-color: #f29191;
+  padding: 7% 13%;
+}
+.forms {
+  padding:30px;
+}
+
+.aboutimg {
+  width: 40%;
+  border-radius: 30%;
+  border: 5px solid black;
+
+}
+.photo {
+  width: 35%;
+}
+.team {
+  padding: 25px;
+
+}
+.ourdescription {
+
+  padding-top: 18px;
+  font-size: 1em;
+  font-family: 'Architects Daughter', cursive;
+}
+.pics {
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title {
+  position: absolute;
+  left: 500px;
+  margin-top: 20px;
+  font-weight: 900;
+  text-align: center;
+  font-family: 'Bungee', cursive;
+  color: #301b3f;
+  margin-bottom: 30px;
+  border: 2px solid black;
+}
+
+.contact-heading{
+  font-size: 3.5em;
+  font-family: 'Architects Daughter', cursive;
+}
+.important{
+  font-size: 20px;
+}
+.notes {
+  font-family: 'Architects Daughter', cursive;
+  font-weight: 500;
+
+}
+
+.contact-content{
+  margin-top: 50px;
+}
+.contactinfo {
+  margin-top: 50px;
+  text-align: center;
+  line-height: 2em;
+  font-family: 'Voltaire', sans-serif;
+  font-size: 1.5em;
+}
+.listpoints{
+  font-weight: 600;
+}
+.b {position: relative;
+
+  margin-left: 400px;
+  padding-top: 10px;
+  font-size: 3em;
+  top: 300px;
+  font-family: 'Sigmar One', cursive;
+  color: #fff;
+
+}
+
+#features {
+  background-color: #150e56;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#upperhome {
+  background-color: black;
+  font-size: 1em;
+    line-height: 2em;
+    margin-bottom: 0px;
+    width: 100%;
+  padding-bottom: 20px;
+  padding-top: 100px;
+  color: #fff;
+
+
+
+
+}
+
+.img {
+  position: relative;
+  width: 30%;
+  bottom: 160px;
+  padding: 0px;
+  right: 45px;
+  padding-bottom: 0px;
+
+
+}
+.doremon {
+    border: 6px solid white;
+    position:relative;
+ width: 300px;
+ border-radius: 20%;
+ margin-bottom: 90px;
+right: 40px;
+
+top: 200px;
+ margin-left: 200px;
+
+
+
+}
+
+.hometext{
+  position: relative;
+  left: 210px;
+  bottom: 140px;
+  font-family: 'Sigmar One', cursive;
+  line-height: 50px;
+  font-size: 32px;
+
+}
+h1 {
+  font-family: 'Bungee Outline', cursive;
+  font-weight: 1000;
+  font-size: 5em;
+  position:relative;
+  margin-bottom: 10px;
+  color: #fff;
+
+  left: 170px;
+  bottom: 320px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+.aboutpara{
+  line-height: 2em;
+  font-family: 'Voltaire', sans-serif;
+}
+
+
+.aboutcontent{
+  margin-top: 50px;
+  font-size: 1.5em;
+  text-align: left;
+}
+.innertext {
+  font-weight:900;
+  font-style: italic;
+}
+
+h3 {
+  font-family: 'Fredoka One', cursive;
+  font-weight: 500;
+
+  margin-bottom: 40px;
+}
+
+h5 {
+  font-family: 'Fredoka One', cursive;
+}
+
+.image {
+  width: 20%;
+}
+.mask {
+  position: relative;
+  border: 4px solid white;
+  width: 45%;
+  border-radius: 20%;
+  right: 40px;
+}
+.covidtext {
+  padding: 70px;
+  font-family: 'Sigmar One', cursive;
+  position: relative;
+
+  font-size: 28px;
+  right: 160px;
+  color: #fff;
+}
+.kid {
+  position: relative;
+  width: 45%;
+  border-radius: 20%;
+  left: 170px;
+  border: 4px solid white;
+
+}
+.kidtext {
+  position: relative;
+
+  font-family: 'Sigmar One', cursive;
+  color: #fff;
+  font-size: 28px;
+  top: 100px;
+}
+
+
+  border-radius: 20%;
+}
+.home1 {
+  margin-top: 60px;
+}
+.row row-cols-1 row-cols-md-3 mb-3 text-center {
+  margin-top: 80px ;
+}
+.homeimage{
+  width: 2%;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+.contentdoremon {
+  margin-left: 350px;
+  margin-bottom: 50px;
+
+  border: 2px solid white;
+}
+.para {
+  margin-left: 700px;
+
+}
+
+.ab {
+  border-top: : 4px solid black;
+}
+.a {
+
+  position: relative;
+  margin-top: 150px;
+  height: 50px;
+  width:40%;
+  font-family: 'Sigmar One', cursive;
+  top: 50px;
+
+  right: 0px;
+  left: 80px;
+  font-size: 3em;
+  color: #fff;
+
+
+
+}
+.carousel-item {
+  width: 200px;
+}
+.deadpool {
+  position: relative;
+  border: 6px solid white;
+width: 500px;
+margin-bottom: 100px;
+bottom: 40px;
+
+border-radius: 20%;
+margin-left: 900px;
+
+
+
+}
+.middlehome{
+  background-color: #f54748;
+}
+.container {
+  margin-right: 0;
+}
+.row {
+  padding-left: 10px;
+  padding-top: 40px;
+  margin-top: 20px;
+}
+.carousel-item{
+  width: 70%;
+  margin-left: 210px;
+}
+
+.homecontent {
+  position: absolute;
+  font-weight: 600;
+  margin-bottom: 60px;
+  padding-bottom: 20px;
+
+
+  margin-top: 40px;
+  margin-right: 50px;
+
+
+font-family: 'Gochi Hand', cursive;
+  line-height: 2em;
+  font-weight: 500;
+  font-size: 2em;
+    width: 80%;
+}
+
+.footer {
+
+  text-align: center;
+  margin-top: 140px;
+
+}
+
+
+.aboutheading {
+  text-align: center;
+}
+
+.contactimage {
+  width: 400px;
+  border-radius: 20%;
+  border: 4px solid black;
+
+}
+.o {
+  padding-top: 40px;
+}
+
+.icons {
+  padding: 10px;
+}
+.col {
+  padding: 35px;
+
+}
+#last {
+  padding-top: 0px;
+  margin-top: 0px;
+  background-color: #233e8b;
+  text-align:center;
+}
+.lastpics {
+  width: 70%;
+  border-radius: 20%;
+  border: 4px solid black;
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+
+.big {
+  width: 35%;
+  margin-left: 80px;
+}
+
+.paisa {
+  padding: 40px;
+}
+
+.memory {
+  color: white;
+
+  width: 40%;
+  text-align: center;
+  padding: 50px;
+  margin-left: 70px;
+
+
+
+
+
+  font-family: 'Gochi Hand', cursive;
+    line-height: 2em;
+    font-weight: 500;
+    font-size: 2.5em;
+      width: 80%;
+}
+
+@media (max-width:790px) {
+  .doremon {
+    position: relative;
+    left: 100px;
+    top: 50px;
+    width: 160px;
+  }
+  .mask {
+    width: 30%;
+  }
+
+  .covidtext {
+    position: relative;
+    font-size: 1.25em;
+    left: 140px;
+    bottom: 200px;
+  }
+
+  .kid {
+    width: 30%;
+    position: relative;
+    left: 420px;
+  }
+  .kidtext {
+    position:relative;
+    font-size:1.25em;
+    right: 40px;
+
+  }
+  h1 {
+    font-size: 30px;
+  }
+  .hometext {
+    font-size: 18px;
+    width: 40%;
+    margin-top: 0px;
+  }
+
+}
